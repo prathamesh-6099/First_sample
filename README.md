@@ -1,2 +1,1 @@
-# First_sample
-this is my first repository
+<h1> # First_sample </h1> <br> This is my first repository
